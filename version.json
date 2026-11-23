@@ -1,0 +1,13 @@
+{
+  "version": "1.0.0",
+  "versionCode": 1,
+  "minRequiredVersion": "1.0.0",
+  "title": "DoctorUzhavan v1.0.0",
+  "releaseNotes": {
+    "English": "DoctorUzhavan v1.0.0 - Smart Hybrid Agriculture Assistant with AI Chat, Multi-language Voice Recording, Crop Disease Detection, and Harvest Date Finder.",
+    "Tamil": "DoctorUzhavan v1.0.0 - AI விவசாய உதவியாளர், குரல் பதிவு, பயிர் நோய் அறிதல் மற்றும் அறுவடை நாள் கணக்கீடு.",
+    "Hindi": "DoctorUzhavan v1.0.0 - AI कृषि सहायक, आवाज़ रिकॉर्डिंग, फसल रोग पहचान और कटाई तिथि खोजक।"
+  },
+  "apkUrl": "https://github.com/Barathram-B/Doctor-Uzhavan/releases/latest/download/doctoruzhavan.apk",
+  "forceUpdate": false
+}
